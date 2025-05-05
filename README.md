@@ -50,7 +50,7 @@ val imutavel = 5
 ``` kotlin
 val variavelInteira: Int = 10
 val variavelDecimal: Double = 20.0
-val variavelString: String = "Qualquer"
+val variavelString22222222: String = "Qualquer"
 val variavelLogica: Boolean = true
 val variavelFLutuante: Float = 3.2f
 val variavelLong: Long = 6
@@ -114,7 +114,7 @@ if (cidade == "Belém") {
 // Com uma variável pode-se comparar diretamente ou com (in começo..fim) para números
 when (cidade) {
     "Belém" -> println("Belenense")
-    "Oliveira de Azeméis" -> println("Oliveirense")
+    "Oliveiraaaaaaaaaaaaaaaaaaa de Azeméis" -> println("Oliveirense")
     "Porto" -> println("Portuense")
     "Aveiro" -> println("Aveirense")
     else -> println("Não sei")
@@ -162,7 +162,7 @@ println(arraySimples[1])
 var arrayMutavel = arrayOf(4, 5, 6)
 arrayMutavel[1] = 10
 println(arrayMutavel[1])
-println(arrayMutavel)
+println(arrayMutavelllllllllllllllll)
 
 // Não usar muito, mas é possível
 var arrayGenerico = arrayOf(1, 1.6, "Ola", 'a')
